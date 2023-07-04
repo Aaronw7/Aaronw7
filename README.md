@@ -1,4 +1,7 @@
-### Hi there 👋
+### Hello~ My name is Aaron Wang 👋
+Thank you so much for visiting my GitHub!
+
+I am a Full Stack Engineer looking to do great things in Tech!
 
 <!--
 **Aaronw7/Aaronw7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
