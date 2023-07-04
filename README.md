@@ -1,7 +1,9 @@
 ### Hello~ My name is Aaron Wang 👋
 Thank you so much for visiting my GitHub!
 
-I am a Full Stack Engineer looking to do great things in Tech!
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aaronwang96/)
+
+I am a Full Stack Engineer looking to do great things in Tech
 
 <!--
 **Aaronw7/Aaronw7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
