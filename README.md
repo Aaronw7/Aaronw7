@@ -1,12 +1,13 @@
 ### Hello~ My name is Aaron Wang 👋
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=plastic&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aaronwang96/)
 
-Thank you so much for visiting my GitHub!
+<div align="center">Thank you so much for visiting my GitHub!</div></br>
 
+<p align="center">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExaXB0eHBneTlocmNrc3k5NW45N3BpN3hrbXRpd212Nm1vZHo0OXRwciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/U5iCPfEJahhmYK8Xt3/giphy.gif">
+</p>
 
-![Portfolio](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExaXB0eHBneTlocmNrc3k5NW45N3BpN3hrbXRpd212Nm1vZHo0OXRwciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/U5iCPfEJahhmYK8Xt3/giphy.gif)
-
-I am a Full Stack Engineer looking to do great things in Tech
+<div align="center">I am a Full Stack Engineer looking to do great things in Tech</div>
 
 ### Languages
 
