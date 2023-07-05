@@ -1,5 +1,5 @@
 ### Hello~ My name is Aaron Wang 👋
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aaronwang96/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=plastic&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aaronwang96/)
 
 Thank you so much for visiting my GitHub!
 
@@ -28,6 +28,11 @@ I am a Full Stack Engineer looking to do great things in Tech
 ![MySQL](https://img.shields.io/badge/MySQL-%2300f.svg?style=plastic&logo=mysql&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23316192.svg??style=plastic&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg??style=plastic&logo=mongodb&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-044A64?style=plastic&logo=sqlite)
+
+### Web Hosting Platforms
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=plastic&logo=amazon)
+![GCP](https://img.shields.io/badge/GCP-F9AB00?style=plastic&logo=googlecloud)
 
 <!--
 **Aaronw7/Aaronw7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
