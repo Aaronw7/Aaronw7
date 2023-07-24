@@ -4,7 +4,9 @@
 <div align="center">Thank you so much for visiting my GitHub!</div></br>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExaXB0eHBneTlocmNrc3k5NW45N3BpN3hrbXRpd212Nm1vZHo0OXRwciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/U5iCPfEJahhmYK8Xt3/giphy.gif">
+  <a href="http://aaronwangcodes.com">
+    <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExaXB0eHBneTlocmNrc3k5NW45N3BpN3hrbXRpd212Nm1vZHo0OXRwciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/U5iCPfEJahhmYK8Xt3/giphy.gif">
+  </a>
 </p>
 
 <div align="center">I am a Full Stack Engineer looking to do great things in Tech</div>
